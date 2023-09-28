@@ -7,33 +7,16 @@
 <img src="https://github.com/nugrahaz/news/assets/69227102/67b524c3-513f-490b-95be-b635919610ed" width="230" height="400">
 
 ## Features
-- Login
-- Registration
-- Recovery Password
-- Email Verification
-- Diagnosis disease
-- History diagnosis
-- See Information Disease
-- Consultation
-- Edit Profile
-- Change Password
-- Feedback
-- Tutorial Coach Mark
-- Credit and Legal Note like Required Permission, Privacy Policy, and Term of Use with Animation (additional feature)
-- Onboarding Animation (additional feature)
-- Change Theme (additional feature)
-- Change Language (additional feature)
-- Permission Manager (additional feature)
+- List of News
+- Favorite
+- Dark Mode
+- Scheduling
 
 
 ## Techstack
 - Dart
 - Flutter SDK
-- PHP
-- MySQL
-- SQL
 - Android Studio
-
 
 ## Credit
 Dicoding
